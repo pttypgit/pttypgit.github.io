@@ -1,0 +1,29 @@
+[
+  {
+    "bookingID" : "101",
+    "style" : "Yoga",
+    "username" : "Yogi1987",
+    "location" : "London",
+    "status" : "paid",
+    "date" : "14.05.2029"
+    
+  },
+  {
+    "bookingID" : "102",
+    "style" : "Pilates",
+    "username" : "Yogi1987",
+    "location" : "London",
+    "status" : "paid",
+    "date" : "14.05.2029"
+    
+  },
+  {
+    "bookingID" : "103",
+    "style" : "HIIT",
+    "username" : "tiger96",
+    "location" : "Glaskow",
+    "status" : "paid",
+    "date" : "14.05.2029"
+  }
+  
+]
