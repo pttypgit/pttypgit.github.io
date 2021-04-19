@@ -1,29 +1,23 @@
 [
-  {
-    "bookingID" : "101",
-    "style" : "Yoga",
-    "username" : "Yogi1987",
-    "location" : "London",
-    "status" : "paid",
-    "date" : "14.05.2029"
-    
-  },
-  {
-    "bookingID" : "102",
-    "style" : "Pilates",
-    "username" : "Yogi1987",
-    "location" : "London",
-    "status" : "paid",
-    "date" : "14.05.2029"
-    
-  },
-  {
-    "bookingID" : "103",
-    "style" : "HIIT",
-    "username" : "tiger96",
-    "location" : "Glaskow",
-    "status" : "paid",
-    "date" : "14.05.2029"
-  }
-  
+    {
+        "waitlistID": "102",
+        "style": "HIIT",
+        "city": "London",
+        "patientname": "nalla",
+        "date": "2021-07-10T00:54:01.462Z"
+    },
+    {
+        "waitlistID": "39",
+        "style": "Yoga",
+        "city": "London",
+        "patientname": "nulla",
+        "date": "2021-10-22T02:40:33.272Z"
+    },
+    {
+        "waitlistID": "39",
+        "style": "Pilates",
+        "city": "London",
+        "patientname": "nulla",
+        "date": "2021-10-22T02:40:33.272Z"
+    }
 ]
