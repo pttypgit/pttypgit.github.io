@@ -1,0 +1,23 @@
+{
+    "Account": [
+      {
+        "AccountId": "1232452662",
+		    "Status": "Enabled",
+        "Currency": "USD",
+        "AccountType": "Personal",
+        "AccountSubType": "JointAccount",
+        "Account": [
+			   {	
+          		"Identification": "13617638217eg",
+          		"Name": "Mr Customer",
+          		"Phone": "12342522662"
+        	 },
+           {	
+          		"Identification": "13617638217eg",
+          		"Name": "Mrs Customer",
+          		"Phone": "12342532362"
+        	}
+		     ]
+      }
+    ]
+  }
